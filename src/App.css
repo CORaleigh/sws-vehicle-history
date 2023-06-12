@@ -1,0 +1,17 @@
+.slider {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  opacity: 0.95;
+  
+}
+
+#vehicle-selection {
+  position: absolute;
+  bottom: 100px;
+  left: 10px;
+  width: 250px;
+}
+#vehicle-selection calcite-combobox {
+  margin-bottom: 1em;
+}
